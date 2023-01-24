@@ -1,1 +1,1 @@
-export * from './calc';
+import './main';
